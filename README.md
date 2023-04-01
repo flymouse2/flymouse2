@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt=""/>
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="" width="350"/>
 </div>
 <div id="badges" align="center"> 
   <a href="your-linkedin-URL">
@@ -14,7 +14,12 @@
 </div>
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=flymouse2&style=flat-square&color=blue" alt=""/>
-<div id="header" align="center">
- Me programming
+  <div>
+  <font size="100">
+    
+    I'm programming
+    
+  </font>
+  </div>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250"/>
